@@ -1,0 +1,246 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "X6pDXoTY_UmW78yabcb2hJisGrw",
+  "nextPageToken": "EAAaHlBUOkNBVWlFRGszTlRCQ1FqVXpSVEUxT0VFeVJUUQ",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jGCFp1kdhBCub29_dZS9Dmu_Kfs",
+      "id": "UExnVXdEdmlCSWYwcE9kNXp2VlZTemdwbzZCYUNwSFQ5Yy45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2024-07-16T16:45:05Z",
+        "channelId": "UCJskGeByzRRSvmOyZOz61ig",
+        "title": "L1. Introduction to Stack and Queue | Implementation using Data Structures",
+        "description": "Check out TUF+: https://takeuforward.org/plus?source=youtube\n\n\nFind DSA, LLD, OOPs, Core Subjects, 1000+ Premium Questions company wise, Aptitude, SQL, AI doubt support and many other features that will help you to stay focussed inside one platform under one affordable subscription. Have a hassle free one stop solution for up-skilling and preparing.\n\nCheckout the problem link 👇🏼\nIntroduction to Stack and Queue\nhttps://takeuforward.org/plus/dsa/problems/implement-stack-using-arrays\nhttps://takeuforward.org/plus/dsa/problems/implement-queue-using-arrays\nhttps://takeuforward.org/plus/dsa/problems/implement-stack-using-queue\nhttps://takeuforward.org/plus/dsa/problems/implement-queue-using-stack\nhttps://takeuforward.org/plus/dsa/problems/implement-stack-using-linkedlist\nhttps://takeuforward.org/plus/dsa/problems/implement-queue-using-linkedlist\n\nAlso our other social’s: https://linktr.ee/takeUforward\n\nCheck out takeUforward website for the sheet and other free resources: takeuforward.org\n\nJoin our Discord Channel - https://discord.gg/GgyQAGEdbG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tqQ5fTamIN4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tqQ5fTamIN4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tqQ5fTamIN4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tqQ5fTamIN4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tqQ5fTamIN4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "take U forward",
+        "playlistId": "PLgUwDviBIf0pOd5zvVVSzgpo6BaCpHT9c",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tqQ5fTamIN4"
+        },
+        "videoOwnerChannelTitle": "take U forward",
+        "videoOwnerChannelId": "UCJskGeByzRRSvmOyZOz61ig"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3ResCdK2-w3COLoFn6DIiudI214",
+      "id": "UExnVXdEdmlCSWYwcE9kNXp2VlZTemdwbzZCYUNwSFQ5Yy4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2024-07-16T16:53:42Z",
+        "channelId": "UCJskGeByzRRSvmOyZOz61ig",
+        "title": "L2. Check for Balanced Parentheses | Stack and Queue",
+        "description": "Check out TUF+: https://takeuforward.org/plus?source=youtube\n\n\nFind DSA, LLD, OOPs, Core Subjects, 1000+ Premium Questions company wise, Aptitude, SQL, AI doubt support and many other features that will help you to stay focussed inside one platform under one affordable subscription. Have a hassle free one stop solution for up-skilling and preparing.\n\nCheckout the problem link 👇🏼\nL2. Check for Balanced Parentheses | Stack and Queue\nhttps://takeuforward.org/plus/dsa/problems/balanced-paranthesis\n\nAlso our other social’s: https://linktr.ee/takeUforward\n\n\nCheck out takeUforward website for the sheet and other free resources: takeuforward.org\n\nJoin our Discord Channel - https://discord.gg/GgyQAGEdbG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xwjS0iZhw4I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xwjS0iZhw4I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xwjS0iZhw4I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xwjS0iZhw4I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xwjS0iZhw4I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "take U forward",
+        "playlistId": "PLgUwDviBIf0pOd5zvVVSzgpo6BaCpHT9c",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xwjS0iZhw4I"
+        },
+        "videoOwnerChannelTitle": "take U forward",
+        "videoOwnerChannelId": "UCJskGeByzRRSvmOyZOz61ig"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "uNhekF-zobg4kCZ0F44DkGNs2Ig",
+      "id": "UExnVXdEdmlCSWYwcE9kNXp2VlZTemdwbzZCYUNwSFQ5Yy5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2024-07-16T16:48:30Z",
+        "channelId": "UCJskGeByzRRSvmOyZOz61ig",
+        "title": "L3. Prefix, Infix, and Postfix Conversion | Stack and Queue Playlist",
+        "description": "Check out TUF+: https://takeuforward.org/plus?source=youtube\n\n\nFind DSA, LLD, OOPs, Core Subjects, 1000+ Premium Questions company wise, Aptitude, SQL, AI doubt support and many other features that will help you to stay focussed inside one platform under one affordable subscription. Have a hassle free one stop solution for up-skilling and preparing.\n\n\nAlso our other social’s: https://linktr.ee/takeUforward\n\n\nCheck out takeUforward website for the sheet and other free resources: takeuforward.org\n\nJoin our Discord Channel - https://discord.gg/GgyQAGEdbG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4pIc9UBHJtk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4pIc9UBHJtk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4pIc9UBHJtk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4pIc9UBHJtk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4pIc9UBHJtk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "take U forward",
+        "playlistId": "PLgUwDviBIf0pOd5zvVVSzgpo6BaCpHT9c",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4pIc9UBHJtk"
+        },
+        "videoOwnerChannelTitle": "take U forward",
+        "videoOwnerChannelId": "UCJskGeByzRRSvmOyZOz61ig"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "m4iQcfQX1WJYU160bLYPnANOHV8",
+      "id": "UExnVXdEdmlCSWYwcE9kNXp2VlZTemdwbzZCYUNwSFQ5Yy5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2024-07-16T16:59:41Z",
+        "channelId": "UCJskGeByzRRSvmOyZOz61ig",
+        "title": "L4. Implement Min Stack | Stack and Queue Playlist",
+        "description": "Check out TUF+: https://takeuforward.org/plus?source=youtube\n\n\nFind DSA, LLD, OOPs, Core Subjects, 1000+ Premium Questions company wise, Aptitude, SQL, AI doubt support and many other features that will help you to stay focussed inside one platform under one affordable subscription. Have a hassle free one stop solution for up-skilling and preparing.\n\nCheckout the problem link 👇🏼\nL4. Implement Min Stack | Stack and Queue Playlist\nhttps://takeuforward.org/plus/dsa/problems/implement-min-stack\n\nAlso our other social’s: https://linktr.ee/takeUforward\n\n\nCheck out takeUforward website for the sheet and other free resources: takeuforward.org\n\nJoin our Discord Channel - https://discord.gg/GgyQAGEdbG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NdDIaH91P0g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NdDIaH91P0g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NdDIaH91P0g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NdDIaH91P0g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NdDIaH91P0g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "take U forward",
+        "playlistId": "PLgUwDviBIf0pOd5zvVVSzgpo6BaCpHT9c",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NdDIaH91P0g"
+        },
+        "videoOwnerChannelTitle": "take U forward",
+        "videoOwnerChannelId": "UCJskGeByzRRSvmOyZOz61ig"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XrcfxKu5N039G-7KG-aTDL01Xcg",
+      "id": "UExnVXdEdmlCSWYwcE9kNXp2VlZTemdwbzZCYUNwSFQ5Yy4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2024-07-16T17:00:35Z",
+        "channelId": "UCJskGeByzRRSvmOyZOz61ig",
+        "title": "L5. Next Greater Element | Stack and Queue Playlist",
+        "description": "Check out TUF+: https://takeuforward.org/plus?source=youtube\n\n\nFind DSA, LLD, OOPs, Core Subjects, 1000+ Premium Questions company wise, Aptitude, SQL, AI doubt support and many other features that will help you to stay focussed inside one platform under one affordable subscription. Have a hassle free one stop solution for up-skilling and preparing.\n\nCheckout the problem link 👇🏼\nL5. Next Greater Element | Stack and Queue Playlist\nhttps://takeuforward.org/plus/dsa/problems/next-greater-element\n\nAlso our other social’s: https://linktr.ee/takeUforward\n\n\nCheck out takeUforward website for the sheet and other free resources: takeuforward.org\n\nJoin our Discord Channel - https://discord.gg/GgyQAGEdbG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e7XQLtOQM3I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e7XQLtOQM3I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e7XQLtOQM3I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/e7XQLtOQM3I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/e7XQLtOQM3I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "take U forward",
+        "playlistId": "PLgUwDviBIf0pOd5zvVVSzgpo6BaCpHT9c",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "e7XQLtOQM3I"
+        },
+        "videoOwnerChannelTitle": "take U forward",
+        "videoOwnerChannelId": "UCJskGeByzRRSvmOyZOz61ig"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 19,
+    "resultsPerPage": 5
+  }
+}
